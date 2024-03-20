@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="multipleSuite" thread-count="7" parellel = "tests">
+
+	<test name="regressionTest">
+		<classes>
+			<class name="basic.TableExample"></class>
+
+
+		</classes>
+	</test>
+
+	<test name="regressionTest1">
+		<classes>
+			<class name="assignment.AlertTNG"></class>
+
+
+		</classes>
+	</test>
+
+	<test name="regressionTest2">
+		<classes>
+			<class name="assignment.GetTextTNG"></class>
+
+		</classes>
+	</test>
+</suite>
+	

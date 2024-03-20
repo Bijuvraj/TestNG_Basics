@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="basicsuite">
+
+	<test name="regressionTest">
+		<classes>
+			<class name="basic.TableExample"></class>
+			<class name="basic.LaunchBrowser"></class>
+
+		</classes>
+	</test>
+</suite>
